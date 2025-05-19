@@ -14,10 +14,15 @@ ISPC
 Estadísticas:
 
 **Precio máximo:** el producto más caro entre los filtrados.
+
 **Precio mínimo:** el producto más barato entre los filtrados.
+
 **Producto más caro:** título del producto con mayor precio.
+
 **Producto más barato:** título del producto con menor precio.
+
 **Precio total:** suma de los precios de los productos filtrados.
+
 
 Todas las estadísticas se actualizan dinámicamente, según lo que se escribe en el buscador
 
